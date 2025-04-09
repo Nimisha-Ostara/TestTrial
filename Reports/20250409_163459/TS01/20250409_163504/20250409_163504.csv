@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01,Chrome 135.0.7049.42,,,09-04-2025 16:35:17,09-04-2025 16:35:20,3.288s,PASSED
+,,,,,,,
+Test Cases/TC01,Chrome 135.0.7049.42,,,09-04-2025 16:35:17,09-04-2025 16:35:20,3.093s,PASSED
+"openBrowser(""https://instance13-test-ostara.ostarasystems.net"")",Chrome 135.0.7049.42,,,09-04-2025 16:35:17,09-04-2025 16:35:20,2.948s,PASSED
